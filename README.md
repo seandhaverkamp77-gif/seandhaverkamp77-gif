@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Sean Haverkamp 👋
 
-<!--
-**seandhaverkamp77-gif/seandhaverkamp77-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical Engineering freshman at Montana State University building embedded systems that bridge hardware and software. 
 
-Here are some ideas to get you started:
+* 🏆 **NASA HUNCH National Finalist:** Designed and developed software for **TARS**, an ESP32-powered Lunar Jumping Robot.
+* 🛠️ **Core Stack:** C, C++, Python, ESP32, and custom PCB/circuit design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Featured Project
+
+* **[TARS - Lunar Jumping Robot](https://github.com/seandhaverkamp77-gif/TARS-lunar-jumping-robot)** 
+  * *NASA HUNCH National Finalist Project* 
+  * An ESP32-based autonomous jumping robot engineered for lunar surface simulation, integrating low-power firmware, motor control, and sensor telemetry. 
+  * **Tech:** C++, ESP32, FreeRTOS, Git
+
+---
+
+### 📫 Connect With Me
+* **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/sean-haverkamp-15a64243b)
