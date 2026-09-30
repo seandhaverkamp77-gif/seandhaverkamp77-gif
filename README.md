@@ -17,4 +17,4 @@ Electrical Engineering freshman at Montana State University building embedded sy
 ---
 
 ### 📫 Connect With Me
-* **LinkedIn:** [linkedin.com](www.linkedin.com/in/sean-haverkamp-15a64243b)
+* **LinkedIn:** [linkedin.com/in/sean-haverkamp](www.linkedin.com/in/sean-haverkamp-15a64243b)
